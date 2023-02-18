@@ -33,8 +33,8 @@ This is a solution to the [Four card feature sectionon Frontend Mentor](https://
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/prithiviraj275/Four-card-feature-section.github.io.git)
+- Live Site URL: [Add live site URL here](https://prithiviraj275.github.io/Four-card-feature-section.github.io/)
 
 ## My process
 
